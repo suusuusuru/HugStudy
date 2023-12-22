@@ -1,0 +1,8 @@
+// javaパッケージのCalculatorクラス
+package plustest;
+
+public class Caluculator {
+    public static int plus(int a) {
+      return a + 1;
+    }
+}
